@@ -33,4 +33,4 @@ To run this project locally, you need the following installed:
 1. **Clone the Repository**:
    Open a terminal and run the following command:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ssakibs04/E-Commerce-using-N-tier-Architecture.git
